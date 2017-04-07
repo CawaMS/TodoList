@@ -21144,10 +21144,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\cawa\\documents\\visual studio 2017\\Projects\\TodoList\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "C:\\Users\\cawa\\Source\\Repos\\TodoList\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "c:\\users\\cawa\\documents\\visual studio 2017\\Projects\\TodoList\\TodoList\\TodoList.csproj",
-      "outputPath": "c:\\users\\cawa\\documents\\visual studio 2017\\Projects\\TodoList\\TodoList\\obj\\",
+      "projectPath": "C:\\Users\\cawa\\Source\\Repos\\TodoList\\TodoList\\TodoList.csproj",
+      "outputPath": "C:\\Users\\cawa\\Source\\Repos\\TodoList\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
